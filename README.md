@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Panwar</h1>
-<h3 align="center">A passionate third year Computer Science Student!</h3>
+<h3 align="center">A passionate fourth year Computer Science Student!</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
